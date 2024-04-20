@@ -1,0 +1,313 @@
+# depslib dependency file v1.0
+1711704059 source:c:\users\Юлия\desktop\tets\main.cpp
+	<iostream>
+	<random>
+	"TXLib.h"
+	<stdlib.h>
+	<vector>
+	<cmath>
+	<ctime>
+	<string>
+	"Kitten.h"
+	"Food.h"
+	"AngryCat.h"
+	"Mouse.h"
+	"BadFood.h"
+	"Ball.h"
+	"AngryBall.h"
+	"Heart.h"
+	"Light.h"
+
+1658524138 c:\users\Юлия\desktop\tets\txlib.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<float.h>
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<conio.h>
+	<direct.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdarg.h>
+	<io.h>
+	<fcntl.h>
+	<process.h>
+	<signal.h>
+	<setjmp.h>
+	<locale.h>
+	<limits.h>
+	<stdint.h>
+	<map>
+	<numeric>
+	<exception>
+	<stdexcept>
+	<tlhelp32.h>
+	<shellapi.h>
+	<shlobj.h>
+	<cxxabi.h>
+	<unwind.h>
+	<stdarg.h>
+	<unistd.h>
+	<termios.h>
+	<new.h>
+	<shlobj.h>
+	<ntstatus.h>
+	<crtdbg.h>
+	<rtcapi.h>
+	<dbghelp.h>
+	<inttypes.h>
+	<SAPI.h>
+
+1658524138 c:\users\Юлия\desktop\tets\include\txlib.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<float.h>
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<conio.h>
+	<direct.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdarg.h>
+	<io.h>
+	<fcntl.h>
+	<process.h>
+	<signal.h>
+	<setjmp.h>
+	<locale.h>
+	<limits.h>
+	<stdint.h>
+	<map>
+	<numeric>
+	<exception>
+	<stdexcept>
+	<tlhelp32.h>
+	<shellapi.h>
+	<shlobj.h>
+	<cxxabi.h>
+	<unwind.h>
+	<stdarg.h>
+	<unistd.h>
+	<termios.h>
+	<new.h>
+	<shlobj.h>
+	<ntstatus.h>
+	<crtdbg.h>
+	<rtcapi.h>
+	<dbghelp.h>
+	<inttypes.h>
+	<SAPI.h>
+
+1709581350 source:c:\users\Юлия\desktop\tets\src\kitten.cpp
+	"Kitten.h"
+
+1709581352 c:\users\Юлия\desktop\tets\include\kitten.h
+	<Creature.h>
+
+1709584377 c:\users\Юлия\desktop\tets\include\creature.h
+	"TXLib.h"
+
+1710850145 source:c:\users\Юлия\desktop\tets\src\creature.cpp
+	"Creature.h"
+
+1709581791 c:\users\Юлия\desktop\tets\include\food.h
+	<Creature.h>
+
+1709582442 source:c:\users\Юлия\desktop\tets\src\food.cpp
+	"Food.h"
+
+1709584387 c:\users\Юлия\desktop\tets\include\angrycat.h
+	<Creature.h>
+
+1709584335 source:c:\users\Юлия\desktop\tets\src\angrycat.cpp
+	"AngryCat.h"
+
+1709584689 source:c:\users\Юлия\desktop\tets\src\mouse.cpp
+	"Mouse.h"
+
+1711350582 c:\users\Юлия\desktop\tets\include\mouse.h
+	<Creature.h>
+
+1710676607 c:\users\Юлия\desktop\tets\include\badfood.h
+	<Creature.h>
+
+1710676590 source:c:\users\Юлия\desktop\tets\src\badfood.cpp
+	"BadFood.h"
+
+1711212276 source:c:\users\Юлия\desktop\tets\buttontwo.cpp
+
+1711347700 source:c:\users\Юлия\desktop\tets\heart.c
+
+1711569260 c:\users\Юлия\desktop\tets\include\heart.h
+	<Creature.h>
+
+1711569608 source:c:\users\Юлия\desktop\tets\src\heart.cpp
+	"Heart.h"
+
+1711347700 source:c:\users\Юлия\desktop\tets\heart.cpp
+
+1711349141 source:c:\users\Юлия\desktop\tets\include\heart.cpp
+	<Creature.h>
+
+1711436931 c:\users\Юлия\desktop\tets\include\ball.h
+	<Creature.h>
+
+1711522620 source:c:\users\Юлия\desktop\tets\src\ball.cpp
+	"Ball.h"
+
+1711609237 source:c:\users\Юлия\desktop\tets\src\light.cpp
+	"Light.h"
+
+1711609237 c:\users\Юлия\desktop\tets\include\light.h
+	<Creature.h>
+
+1711633210 source:c:\users\Юлия\desktop\tets\src\angryball.cpp
+	"AngryBall.h"
+
+1711633210 c:\users\Юлия\desktop\tets\include\angryball.h
+	<Creature.h>
+
+1711212276 source:c:\users\Юлия\desktop\Вайнер Елена\tets\buttontwo.cpp
+
+1711347700 source:c:\users\Юлия\desktop\Вайнер Елена\tets\heart.cpp
+
+1711349141 source:c:\users\Юлия\desktop\Вайнер Елена\tets\include\heart.cpp
+	<Creature.h>
+
+1709584377 c:\users\Юлия\desktop\Вайнер Елена\tets\include\creature.h
+	"TXLib.h"
+
+1658524138 c:\users\Юлия\desktop\Вайнер Елена\tets\include\txlib.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<float.h>
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+	<iomanip>
+	<conio.h>
+	<direct.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdarg.h>
+	<io.h>
+	<fcntl.h>
+	<process.h>
+	<signal.h>
+	<setjmp.h>
+	<locale.h>
+	<limits.h>
+	<stdint.h>
+	<map>
+	<numeric>
+	<exception>
+	<stdexcept>
+	<tlhelp32.h>
+	<shellapi.h>
+	<shlobj.h>
+	<cxxabi.h>
+	<unwind.h>
+	<stdarg.h>
+	<unistd.h>
+	<termios.h>
+	<new.h>
+	<shlobj.h>
+	<ntstatus.h>
+	<crtdbg.h>
+	<rtcapi.h>
+	<dbghelp.h>
+	<inttypes.h>
+	<SAPI.h>
+
+1713335902 source:c:\users\Юлия\desktop\Вайнер Елена\tets\main.cpp
+	<iostream>
+	<random>
+	"TXLib.h"
+	<stdlib.h>
+	<vector>
+	<cmath>
+	<ctime>
+	<string>
+	"Kitten.h"
+	"Food.h"
+	"AngryCat.h"
+	"Mouse.h"
+	"BadFood.h"
+	"Ball.h"
+	"AngryBall.h"
+	"Heart.h"
+	"Light.h"
+
+1709581352 c:\users\Юлия\desktop\Вайнер Елена\tets\include\kitten.h
+	<Creature.h>
+
+1709581791 c:\users\Юлия\desktop\Вайнер Елена\tets\include\food.h
+	<Creature.h>
+
+1709584387 c:\users\Юлия\desktop\Вайнер Елена\tets\include\angrycat.h
+	<Creature.h>
+
+1711350582 c:\users\Юлия\desktop\Вайнер Елена\tets\include\mouse.h
+	<Creature.h>
+
+1710676607 c:\users\Юлия\desktop\Вайнер Елена\tets\include\badfood.h
+	<Creature.h>
+
+1711436931 c:\users\Юлия\desktop\Вайнер Елена\tets\include\ball.h
+	<Creature.h>
+
+1711633210 c:\users\Юлия\desktop\Вайнер Елена\tets\include\angryball.h
+	<Creature.h>
+
+1711569260 c:\users\Юлия\desktop\Вайнер Елена\tets\include\heart.h
+	<Creature.h>
+
+1711609237 c:\users\Юлия\desktop\Вайнер Елена\tets\include\light.h
+	<Creature.h>
+
+1711633210 source:c:\users\Юлия\desktop\Вайнер Елена\tets\src\angryball.cpp
+	"AngryBall.h"
+
+1709584335 source:c:\users\Юлия\desktop\Вайнер Елена\tets\src\angrycat.cpp
+	"AngryCat.h"
+
+1710676590 source:c:\users\Юлия\desktop\Вайнер Елена\tets\src\badfood.cpp
+	"BadFood.h"
+
+1711522620 source:c:\users\Юлия\desktop\Вайнер Елена\tets\src\ball.cpp
+	"Ball.h"
+
+1710850145 source:c:\users\Юлия\desktop\Вайнер Елена\tets\src\creature.cpp
+	"Creature.h"
+
+1709582442 source:c:\users\Юлия\desktop\Вайнер Елена\tets\src\food.cpp
+	"Food.h"
+
+1711569608 source:c:\users\Юлия\desktop\Вайнер Елена\tets\src\heart.cpp
+	"Heart.h"
+
+1709581350 source:c:\users\Юлия\desktop\Вайнер Елена\tets\src\kitten.cpp
+	"Kitten.h"
+
+1711609237 source:c:\users\Юлия\desktop\Вайнер Елена\tets\src\light.cpp
+	"Light.h"
+
+1709584689 source:c:\users\Юлия\desktop\Вайнер Елена\tets\src\mouse.cpp
+	"Mouse.h"
+
